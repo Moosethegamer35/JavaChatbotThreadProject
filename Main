@@ -9,6 +9,7 @@ class Main
       SoccerBot SoccerBot = new SoccerBot();
       GolfBot GolfBot = new GolfBot();
       CaddieBot CaddieBot = new CaddieBot();
+      System.out.println("");
       System.out.println("FootballBot: " + footballBot.getGreeting()); // FootballBot's greeting 
       System.out.println("SoccerBot: " + SoccerBot.getGreeting()); // SoccerBot's greeting  
       System.out.println("FootballBot: My speed is " + footballBot.mySpeed); // how fast is FootballBot?
@@ -59,6 +60,30 @@ class Main
       System.out.println("All: Allright, lets play some golf!"); // All statement 
       System.out.println(""); // break
       System.out.println("*All drive off into the sunset in a golf cart*");
+
+
+      
+      
+      
+
+
+
+      
+
+
+
+    
+
+      
+
+
+
+
+
+   }
+
+
+}
 
 
 
